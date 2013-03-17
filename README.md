@@ -1,0 +1,1 @@
+This is my personal site. For years, I've used Wordpress and I'm finally learning Rails.
