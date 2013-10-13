@@ -26,6 +26,11 @@ end
 
 gem 'jquery-rails'
 
+
+# New gems
+gem 'high_voltage'
+gem "twitter-bootstrap-rails"
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
